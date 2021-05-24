@@ -3,7 +3,7 @@ import 'package:redux/redux.dart';
 import '../../models/note.dart';
 import '../../models/note_service.dart';
 import '../app_state.dart';
-import '../middlewares/navigation/nagivation_actions.dart';
+import '../../middlewares/navigation/nagivation_actions.dart';
 
 class TitleChange {
   final String title;

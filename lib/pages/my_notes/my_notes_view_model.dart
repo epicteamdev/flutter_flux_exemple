@@ -3,7 +3,7 @@ import 'package:redux/redux.dart';
 import '../../models/note.dart';
 import '../../services/services.dart';
 import '../../store/app_state.dart';
-import '../../store/middlewares/navigation/nagivation_actions.dart';
+import '../../middlewares/navigation/nagivation_actions.dart';
 import '../../store/my_notes/my_notes_actions.dart';
 
 class MyNotesViewModel {
